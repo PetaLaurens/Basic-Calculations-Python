@@ -1,4 +1,4 @@
-# Program that performs some basic arithmetic calculations by Camila Laurens.
+# Program that performs some basic arithmetic calculations.
 
 # Importing math module for Multiplication function.
 import math
